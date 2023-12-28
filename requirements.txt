@@ -7,3 +7,4 @@ rouge_score
 pandas
 beautifulsoup4
 lxml
+gdown
