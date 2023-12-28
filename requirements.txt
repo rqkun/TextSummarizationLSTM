@@ -1,0 +1,9 @@
+tensorflow
+keras
+nltk
+keras_preprocessing
+scikit-learn
+rouge_score
+pandas
+beautifulsoup4
+lxml
