@@ -3,9 +3,7 @@ Project này sử dụng bộ nhớ dài-ngắn hạn (LSTM), [GloVe](https://nl
 
 # Hướng dẫn sử dụng
 1. Thực hiện cell đầu tiên để cài đặt các thư viện cần thiết
-'''
-%pip install -r requirements.txt
-'''
+```%pip install -r requirements.txt```
 
 > [!NOTE]
 > Chỉ chạy cell này 1 lần duy nhất.
