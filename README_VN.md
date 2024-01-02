@@ -24,5 +24,5 @@ PATH_TO_CHECKPOINT = '<Đường dẫn mới>'
 - ThS. Trần Trọng Bình
 
 # Người thực hiện
-1. Ngo Hoang Khanh Duy
-2. Huynh Nhat Minh
+1. Ngô Hoàng Khánh Duy
+2. Huỳnh Nhật Minh
