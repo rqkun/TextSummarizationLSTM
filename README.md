@@ -1,4 +1,6 @@
 # About the Project
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rqkun/TextSummarizationLSTM/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-vn-yellow.svg)](https://github.com//rqkun/TextSummarizationLSTM/blob/main/README_VN.md)
 This Project uses LSTM, [GloVe](https://nlp.stanford.edu/projects/glove/) for embedding weight matrix and dataset from [Amazon Fine Foods Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) as training data in order to create a model with the ability of abstractively summarize text.
 
 # Running the Project
