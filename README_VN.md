@@ -1,4 +1,7 @@
 # Về project
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/rqkun/TextSummarizationLSTM/blob/main/README.md)
+[![es](https://img.shields.io/badge/lang-vn-yellow.svg)](https://github.com//rqkun/TextSummarizationLSTM/blob/main/README_VN.md)
+
 Project này sử dụng bộ nhớ dài-ngắn hạn (LSTM), [GloVe](https://nlp.stanford.edu/projects/glove/) làm ma trận embedding và tập [Amazon Fine Foods Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) làm dữ liệu huấn luyện, từ đó chúng tôi tạo ra một mô hình có khả năng tóm tắt văn bản theo hướng Abstractive.
 
 # Hướng dẫn sử dụng
