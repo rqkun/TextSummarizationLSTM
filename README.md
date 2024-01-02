@@ -1,28 +1,28 @@
-# Về project
-Project này sử dụng bộ nhớ dài-ngắn hạn (LSTM), [GloVe](https://nlp.stanford.edu/projects/glove/) làm ma trận embedding và tập [Amazon Fine Foods Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) làm dữ liệu huấn luyện, từ đó chúng tôi tạo ra một mô hình có khả năng tóm tắt văn bản theo hướng Abstractive.
+# About the Project
+This Project uses LSTM, [GloVe](https://nlp.stanford.edu/projects/glove/) for embedding weight matrix and dataset from [Amazon Fine Foods Reviews](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews) as training data in order to create a model with the ability of abstractively summarize text.
 
-# Hướng dẫn sử dụng
-**Bước 1:** Thực hiện cell đầu tiên để cài đặt các thư viện cần thiết.
+# Running the Project
+**Step 1:** Run the first cell to install necessary libraries
 > [!WARNING]
-> Chỉ chạy cell này 1 lần duy nhất.
+> Only run for the first time!
 ```
 %pip install -r requirements.txt
 ```
 
-**Bước 2:** Ở cell thứ hai, những đường dẫn như ```PATH_TO_DATA```, ```PATH_TO_MODELS``` và ```PATH_TO_CHECKPOINT``` có thể được thay đổi tùy vào nhu cầu người dùng.
+**Step 2:** In the 2nd cell, change  ```PATH_TO_DATA```, ```PATH_TO_MODELS``` and ```PATH_TO_CHECKPOINT``` to your correlated paths.
 > [!NOTE]
-> Nếu không có nhu cầu thay đổi thư mục lưu trữ các file được đề cập thì không cần thay đổi đường dẫn.
+> You can leave the paths unchange if you wnat to use default paths.
 ```
-PATH_TO_DATA = '<Đường dẫn mới>'
-PATH_TO_MODELS = '<Đường dẫn mới>'
-PATH_TO_CHECKPOINT = '<Đường dẫn mới>'
+PATH_TO_DATA = '<New path to your data folder>'
+PATH_TO_MODELS = '<New path to your stored models folder>'
+PATH_TO_CHECKPOINT = '<New path to your stored checkpoint folder>'
 ```
 
-**Bước 3:** Chạy những cells phía sau theo thứ tự một cách tuần tự.
+**Step 3:** Run all cells after the 2nd cell.
 
-# Giảng viên hướng dẫn
-- ThS. Trần Trọng Bình
+# Guiding Lecturer 
+- Trần Trọng Bình
 
-# Người thực hiện
+# Project Members
 1. Ngo Hoang Khanh Duy
 2. Huynh Nhat Minh
