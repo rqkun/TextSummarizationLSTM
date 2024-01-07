@@ -23,7 +23,7 @@ PATH_TO_CHECKPOINT = '<New path to your stored checkpoint folder>'
 
 **Step 3:** Run all cells after the 2nd cell.
 
-# Guiding Lecturer 
+# Instructing Lecturer 
 - Tran Trong Binh
 
 # Project Members
